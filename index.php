@@ -435,7 +435,7 @@ if($_POST["message"]) {
 
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="contact.php" class="bg-light p-4 p-md-5 contact-form">
+            <form action="index.php" class="bg-light p-4 p-md-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name">
               </div>
