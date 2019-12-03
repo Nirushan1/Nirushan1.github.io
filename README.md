@@ -4,5 +4,4 @@ Personal Portfolio
 My Personal Portfolio <br>
 Link: https://nirushan1.github.io/
 
-Reproducing without the permission of author will not be tolerated by any means. <br>
 All rights reserved by Nirushan Prabaharan
